@@ -1,16 +1,8 @@
 {
    "data":[
       {
-         "user":"carlos",
-         "pass":"carlous101",
-         "rol":"Admin",
-         "full_name":"Martín Carlos Abad Alay",
-         "img":"https://drive.google.com/file/d/1L2e3y2zh8oMzwHvPor09MFJolgTAdRt3/view?usp=sharing",
-         "mail":"martin.abad2016@uteq.edu.ec"
-      },
-      {
-         "user":"carlous101",
-         "pass":"carlous101",
+         "user":"Carlos",
+         "pass":"carlous",
          "rol":"Admin",
          "full_name":"Martín Carlos Abad Alay",
          "img":"https://avatars.githubusercontent.com/u/67350301?v=4",
