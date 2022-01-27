@@ -27,58 +27,76 @@
    ],
    "facultad":[
       {
+         "nombre":"FACULTAD DE CIENCIAS AGROPECUARIAS",
+         "decano":"Ing. Leonardo Gonzalo Matute, M.Sc.",
+         "direccion":"Campus “La María”, km 7 vía Quevedo-El Empalme",
+         "telefono":"(+593) 5 3702-220 Ext. 8067",
+         "img":"https://www.uteq.edu.ec/images/about/logo_fcagrop.jpg",
+         "lat":-1.08077,
+         "alt":-79.5023
+      },
+      {
          "nombre":"FACULTAD DE CIENCIAS DE LA INGENIERÍA",
-         "decano":"Ing. Washington Chiriboga Casanova",
-         "direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme",
+         "decano":"Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
+         "direccion":"Campus - Ingeniero Manuel Agustín Haz Álvarez -, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
          "telefono":"(+593) 5 3702-220 Ext. 8052",
          "img":"https://www.uteq.edu.ec/images/about/logo_fci.jpg",
          "lat":-1.080257,
          "alt":-79.501652
       },
       {
-         "nombre":"FACULTAD DE CIENCIAS AGROPECUARIAS",
-         "decano":"Ing. Rolando López Tobar",
-         "direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme",
-         "telefono":"(+593) 5 3702-220 Ext. 8067",
-         "img":"https://www.uteq.edu.ec/images/about/logo_fcagrop.jpg",
-         "lat":-1.080316,
-         "alt":-79.502389
-      },
-      {
          "nombre":"FACULTAD DE CIENCIAS DE LA INDUSTRIA Y PRODUCCIÓN",
-         "decano":"Ing. Henry Nelson Aguilera Vidal",
+         "decano":"Ing. Sonnia Esther Barzola Miranda, M.Sc.",
          "direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme",
          "telefono":"(+593) 5 3702-220 Ext. 8025",
          "img":"https://www.uteq.edu.ec/images/about/logo_fcip.jpg",
-         "lat":-1.080802,
-         "alt":-79.501709
+         "lat":-1.08081,
+         "alt":-79.50175
       },
       {
          "nombre":"FACULTAD DE CIENCIAS EMPRESARIALES",
-         "decano":"Ing. Magali Gioconda Calero Lara",
+         "decano":"Ing. Mariela Susana Andrade Arias, PhD.",
          "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
          "telefono":"(+593) 5 3702-220 Ext. 8038",
          "img":"https://www.uteq.edu.ec/images/about/logo_fce.jpg",
-         "lat":-1.012214,
-         "alt":-79.469327
+         "lat":-1.01215,
+         "alt":-79.47011
       },
       {
          "nombre":"FACULTAD DE CIENCIAS DE LA SALUD",
-         "decano":"Ing. Magali Gioconda Calero Lara",
+         "decano":"Lcda. Inés de la Luz Bajaña Mendieta, M.Sc.",
          "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
          "telefono":"(+593) 5 3702-220 Ext. 8001",
          "img":"https://www.uteq.edu.ec/images/about/logo_enf1.jpg",
-         "lat":-1.012407,
-         "alt":-79.469925
+         "lat":-1.01225,
+         "alt":-79.46963
       },
       {
          "nombre":"FACULTAD DE CIENCIAS DE LA EDUCACIÓN",
-         "decano":"Psi. Pablo Alberto Parra Silva",
+         "decano":"Lcda. Badie Anneriz Cerezo Segovia, PhD.",
          "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
          "telefono":"(+593) 5 3702-220 Ext. 8066",
-         "img":"https://www.uteq.edu.ec/images/escudouteq.png",
+         "img":"https://i.ibb.co/D7QVKFN/Facultad-de-ciencias-de-la-educaci-n-Carlous.jpg",
          "lat":-1.012761,
          "alt":-79.470806
+      },
+      {
+         "nombre":"DECANO FACULTAD DE CIENCIAS SOCIALES, ECONÓMICAS Y FINANCIERA",
+         "decano":"Ing. Roque Vivas, M.Sc.",
+         "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+         "telefono":"(+593) 5 3702-220 Ext. 8001",
+         "img":"https://i.ibb.co/7zN6CQR/DECANO-FACULTAD-DE-CIENCIAS-SOCIALES-ECON-MICAS-Y-FINANCIERA-Carlos-Abad.png",
+         "lat":-1.01225,
+         "alt":-79.47072
+      },
+      {
+         "nombre":"UNIDAD DE POSGRADO",
+         "decano":"Econ. Nivaldo Apolonides Vera Valdiviezo, M.Sc.",
+         "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+         "telefono":"(+593) 5 3702-220 Ext. 8022/8023",
+         "img":"https://www.uteq.edu.ec/images/about/logo_pos.jpg",
+         "lat":-1.01298,
+         "alt":-79.46882
       }
    ]
 }
