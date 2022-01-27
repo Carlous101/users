@@ -27,7 +27,7 @@
    ],
    "facultad":[
       {
-         "nombre":"Facultad de Ciencias de la Ingeniería",
+         "nombre":"FACULTAD DE CIENCIAS DE LA INGENIERÍA",
          "decano":"Ing. Washington Chiriboga Casanova",
          "direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme",
          "telefono":"(+593) 5 3702-220 Ext. 8052",
@@ -36,7 +36,7 @@
          "alt":-79.501652
       },
       {
-         "nombre":"Facultad de Ciencias Agropecuarias",
+         "nombre":"FACULTAD DE CIENCIAS AGROPECUARIAS",
          "decano":"Ing. Rolando López Tobar",
          "direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme",
          "telefono":"(+593) 5 3702-220 Ext. 8067",
@@ -45,7 +45,7 @@
          "alt":-79.502389
       },
       {
-         "nombre":"Facultad de Ciencias de la Industria y Producción",
+         "nombre":"FACULTAD DE CIENCIAS DE LA INDUSTRIA Y PRODUCCIÓN",
          "decano":"Ing. Henry Nelson Aguilera Vidal",
          "direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme",
          "telefono":"(+593) 5 3702-220 Ext. 8025",
@@ -54,7 +54,7 @@
          "alt":-79.501709
       },
       {
-         "nombre":"Facultad de Ciencias Empresariales",
+         "nombre":"FACULTAD DE CIENCIAS EMPRESARIALES",
          "decano":"Ing. Magali Gioconda Calero Lara",
          "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
          "telefono":"(+593) 5 3702-220 Ext. 8038",
@@ -63,7 +63,7 @@
          "alt":-79.469327
       },
       {
-         "nombre":"Facultad de Ciencias de la Salud",
+         "nombre":"FACULTAD DE CIENCIAS DE LA SALUD",
          "decano":"Ing. Magali Gioconda Calero Lara",
          "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
          "telefono":"(+593) 5 3702-220 Ext. 8001",
@@ -72,7 +72,7 @@
          "alt":-79.469925
       },
       {
-         "nombre":"Facultad de Ciencias de la Educación",
+         "nombre":"FACULTAD DE CIENCIAS DE LA EDUCACIÓN",
          "decano":"Psi. Pablo Alberto Parra Silva",
          "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
          "telefono":"(+593) 5 3702-220 Ext. 8066",
